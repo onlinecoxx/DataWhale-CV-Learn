@@ -1,6 +1,6 @@
 # DataWhale-CV-Learn
 
-2020年5月`Datawhale` 组织的组队学习挑战，并在此记录打卡
+> 2020年5月`Datawhale` 组织的组队学习挑战，并在此记录打卡，本文采用 `Notebook` 进行撰写。
 
 本赛事来自于：天池与Datawhale联合发起的零基础系列之 [街景字符的识别](https://tianchi.aliyun.com/competition/entrance/531795/introduction)
 
