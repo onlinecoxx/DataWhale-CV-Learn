@@ -14,6 +14,7 @@
 ### [Task02 - 数据读取与数据扩增](Task02-BaseLine.ipynb)
 
 
+### [Task03 - 字符识别模型](Task03-字符识别模型.md)
 
 ## 参考文献
 
