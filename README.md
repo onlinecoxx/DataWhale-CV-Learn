@@ -16,6 +16,10 @@
 
 ### [Task03 - 字符识别模型](Task03-字符识别模型.md)
 
+
+### [Task04 - 模型训练与验证](Task04-模型训练与验证.md)
+
+
 ## 参考文献
 
 Datawhale 共享资料：https://github.com/datawhalechina/team-learning
