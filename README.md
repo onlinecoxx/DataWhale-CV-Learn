@@ -20,6 +20,9 @@
 ### [Task04 - 模型训练与验证](Task04-模型训练与验证.md)
 
 
+### [Task05 - 模型集成](Task05-模型集成.md)
+
+
 ## 参考文献
 
 Datawhale 共享资料：https://github.com/datawhalechina/team-learning
